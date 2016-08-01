@@ -14,7 +14,7 @@
 
 ```ruby
 git clone https://github.com/beijiahiddink/BJHelper.git
-open BJNotification
+open BJHelper
 ```
 
 ## 该怎样去使用
