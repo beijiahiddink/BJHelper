@@ -6,7 +6,11 @@
 
 ## 什么是BJHelper
 
-BJHelper是一款完成iOS本地应用分发的示例，实现了现在iOS第三方应用市场本地安装app的功能。
+BJHelper是一款完成iOS本地应用分发的示例，实现了现在iOS第三方应用市场本地安装app的功能，效果如下：
+
+<div style="text-align: center" >
+    <img src="Screenshot/gif1.gif" width="320px" height="420px">
+</div>
 
 ## 如何安装
 
