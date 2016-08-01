@@ -142,20 +142,9 @@
 				2B6A847F1D48CED700103DAC /* BJAppDelegate.m */,
 				2B656F9F1D4CFCD6001784EC /* BJServerConfig.h */,
 				2B656FA01D4CFCD6001784EC /* BJServerConfig.m */,
-				2B6686511D4B57DE004DF28C /* BJNavigationController.h */,
-				2B6686521D4B57DE004DF28C /* BJNavigationController.m */,
-				2B6A84811D48CED700103DAC /* BJListViewController.h */,
-				2B6A84821D48CED700103DAC /* BJListViewController.m */,
-				2B6686571D4B67C5004DF28C /* BJWebViewController.h */,
-				2B6686581D4B67C5004DF28C /* BJWebViewController.m */,
-				2B6686541D4B63AC004DF28C /* BJPathServe.h */,
-				2B6686551D4B63AC004DF28C /* BJPathServe.m */,
-				2BA2CD711D4C9FF900EF090B /* BJAssembler.h */,
-				2BA2CD721D4C9FF900EF090B /* BJAssembler.m */,
-				2B656F991D4CBEC8001784EC /* BJFileInfoAssembler.h */,
-				2B656F9A1D4CBEC8001784EC /* BJFileInfoAssembler.m */,
-				2B66864B1D4B2368004DF28C /* BJFileInfo.h */,
-				2B66864C1D4B2368004DF28C /* BJFileInfo.m */,
+				2B87EEED1D4F650B0022B51F /* Tool */,
+				2B87EEEC1D4F64C20022B51F /* Model */,
+				2B87EEEB1D4F649D0022B51F /* Controller */,
 				2B682A471D4DC5F400BDD807 /* libBJHelperSupport */,
 				2B6CE8341D49016800C09E5E /* Resources */,
 				2B6A848C1D48CED700103DAC /* Info.plist */,
@@ -181,6 +170,41 @@
 				2B6CE8351D49018E00C09E5E /* App */,
 			);
 			name = Resources;
+			sourceTree = "<group>";
+		};
+		2B87EEEB1D4F649D0022B51F /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				2B6686511D4B57DE004DF28C /* BJNavigationController.h */,
+				2B6686521D4B57DE004DF28C /* BJNavigationController.m */,
+				2B6A84811D48CED700103DAC /* BJListViewController.h */,
+				2B6A84821D48CED700103DAC /* BJListViewController.m */,
+				2B6686571D4B67C5004DF28C /* BJWebViewController.h */,
+				2B6686581D4B67C5004DF28C /* BJWebViewController.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		2B87EEEC1D4F64C20022B51F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				2B66864B1D4B2368004DF28C /* BJFileInfo.h */,
+				2B66864C1D4B2368004DF28C /* BJFileInfo.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		2B87EEED1D4F650B0022B51F /* Tool */ = {
+			isa = PBXGroup;
+			children = (
+				2B6686541D4B63AC004DF28C /* BJPathServe.h */,
+				2B6686551D4B63AC004DF28C /* BJPathServe.m */,
+				2BA2CD711D4C9FF900EF090B /* BJAssembler.h */,
+				2BA2CD721D4C9FF900EF090B /* BJAssembler.m */,
+				2B656F991D4CBEC8001784EC /* BJFileInfoAssembler.h */,
+				2B656F9A1D4CBEC8001784EC /* BJFileInfoAssembler.m */,
+			);
+			name = Tool;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
