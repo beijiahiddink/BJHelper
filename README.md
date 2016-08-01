@@ -6,9 +6,7 @@
 
 ## 什么是BJHelper
 
-<iframe height=498 width=510 src="http://player.youku.com/embed/XMTY2NDIyNjc2OA==" frameborder=0 allowfullscreen></iframe>
-
-<br/>BJHelper是一款完成iOS本地应用分发的示例，实现了现在iOS第三方应用市场本地安装app的功能。
+BJHelper是一款完成iOS本地应用分发的示例，实现了现在iOS第三方应用市场本地安装app的功能。
 
 ## 如何安装
 
