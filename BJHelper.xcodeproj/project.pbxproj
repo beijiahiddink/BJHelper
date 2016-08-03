@@ -7,23 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2B656F9B1D4CBEC8001784EC /* BJFileInfoAssembler.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B656F9A1D4CBEC8001784EC /* BJFileInfoAssembler.m */; };
+		2B5F0D281D509B7200B897D3 /* BJAssembler.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B5F0D231D509B7200B897D3 /* BJAssembler.m */; };
+		2B5F0D291D509B7200B897D3 /* BJFileInfoAssembler.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B5F0D251D509B7200B897D3 /* BJFileInfoAssembler.m */; };
+		2B5F0D2A1D509B7200B897D3 /* BJPathServe.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B5F0D271D509B7200B897D3 /* BJPathServe.m */; };
+		2B5F0D2E1D509B9C00B897D3 /* BJFileInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B5F0D2D1D509B9C00B897D3 /* BJFileInfo.m */; };
+		2B5F0D361D509BA400B897D3 /* BJListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B5F0D311D509BA300B897D3 /* BJListViewController.m */; };
+		2B5F0D371D509BA400B897D3 /* BJNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B5F0D331D509BA300B897D3 /* BJNavigationController.m */; };
+		2B5F0D381D509BA400B897D3 /* BJWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B5F0D351D509BA400B897D3 /* BJWebViewController.m */; };
 		2B656FA11D4CFCD6001784EC /* BJServerConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B656FA01D4CFCD6001784EC /* BJServerConfig.m */; };
 		2B6580A71D4F1B3F001729CD /* BJLaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B6580A51D4F1B3F001729CD /* BJLaunchScreen.storyboard */; };
 		2B6686441D4B1522004DF28C /* BJHelperTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B6686431D4B1522004DF28C /* BJHelperTests.m */; };
-		2B66864D1D4B2368004DF28C /* BJFileInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B66864C1D4B2368004DF28C /* BJFileInfo.m */; };
-		2B6686531D4B57DE004DF28C /* BJNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B6686521D4B57DE004DF28C /* BJNavigationController.m */; };
-		2B6686561D4B63AC004DF28C /* BJPathServe.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B6686551D4B63AC004DF28C /* BJPathServe.m */; };
-		2B6686591D4B67C5004DF28C /* BJWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B6686581D4B67C5004DF28C /* BJWebViewController.m */; };
 		2B682A4B1D4DC5F400BDD807 /* BJHelperSupport.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 2B682A481D4DC5F400BDD807 /* BJHelperSupport.bundle */; };
 		2B6A847D1D48CED700103DAC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B6A847C1D48CED700103DAC /* main.m */; };
 		2B6A84801D48CED700103DAC /* BJAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B6A847F1D48CED700103DAC /* BJAppDelegate.m */; };
-		2B6A84831D48CED700103DAC /* BJListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B6A84821D48CED700103DAC /* BJListViewController.m */; };
 		2B6A84861D48CED700103DAC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B6A84841D48CED700103DAC /* Main.storyboard */; };
 		2B6A84881D48CED700103DAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B6A84871D48CED700103DAC /* Assets.xcassets */; };
 		2B6CE8361D49018E00C09E5E /* App in Resources */ = {isa = PBXBuildFile; fileRef = 2B6CE8351D49018E00C09E5E /* App */; };
 		2B8CF7D01D4F31CF00D7A56C /* libBJHelperSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B8CF7CF1D4F31CF00D7A56C /* libBJHelperSDK.a */; };
-		2BA2CD731D4C9FF900EF090B /* BJAssembler.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BA2CD721D4C9FF900EF090B /* BJAssembler.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,37 +37,37 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2B656F991D4CBEC8001784EC /* BJFileInfoAssembler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BJFileInfoAssembler.h; sourceTree = "<group>"; };
-		2B656F9A1D4CBEC8001784EC /* BJFileInfoAssembler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BJFileInfoAssembler.m; sourceTree = "<group>"; };
+		2B5F0D221D509B7200B897D3 /* BJAssembler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BJAssembler.h; sourceTree = "<group>"; };
+		2B5F0D231D509B7200B897D3 /* BJAssembler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BJAssembler.m; sourceTree = "<group>"; };
+		2B5F0D241D509B7200B897D3 /* BJFileInfoAssembler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BJFileInfoAssembler.h; sourceTree = "<group>"; };
+		2B5F0D251D509B7200B897D3 /* BJFileInfoAssembler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BJFileInfoAssembler.m; sourceTree = "<group>"; };
+		2B5F0D261D509B7200B897D3 /* BJPathServe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BJPathServe.h; sourceTree = "<group>"; };
+		2B5F0D271D509B7200B897D3 /* BJPathServe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BJPathServe.m; sourceTree = "<group>"; };
+		2B5F0D2C1D509B9C00B897D3 /* BJFileInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BJFileInfo.h; sourceTree = "<group>"; };
+		2B5F0D2D1D509B9C00B897D3 /* BJFileInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BJFileInfo.m; sourceTree = "<group>"; };
+		2B5F0D301D509BA300B897D3 /* BJListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BJListViewController.h; sourceTree = "<group>"; };
+		2B5F0D311D509BA300B897D3 /* BJListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BJListViewController.m; sourceTree = "<group>"; };
+		2B5F0D321D509BA300B897D3 /* BJNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BJNavigationController.h; sourceTree = "<group>"; };
+		2B5F0D331D509BA300B897D3 /* BJNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BJNavigationController.m; sourceTree = "<group>"; };
+		2B5F0D341D509BA300B897D3 /* BJWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BJWebViewController.h; sourceTree = "<group>"; };
+		2B5F0D351D509BA400B897D3 /* BJWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BJWebViewController.m; sourceTree = "<group>"; };
 		2B656F9F1D4CFCD6001784EC /* BJServerConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BJServerConfig.h; sourceTree = "<group>"; };
 		2B656FA01D4CFCD6001784EC /* BJServerConfig.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BJServerConfig.m; sourceTree = "<group>"; };
 		2B6580A61D4F1B3F001729CD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/BJLaunchScreen.storyboard; sourceTree = "<group>"; };
 		2B6686411D4B1522004DF28C /* BJHelperTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BJHelperTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B6686431D4B1522004DF28C /* BJHelperTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BJHelperTests.m; sourceTree = "<group>"; };
 		2B6686451D4B1522004DF28C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2B66864B1D4B2368004DF28C /* BJFileInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BJFileInfo.h; sourceTree = "<group>"; };
-		2B66864C1D4B2368004DF28C /* BJFileInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BJFileInfo.m; sourceTree = "<group>"; };
-		2B6686511D4B57DE004DF28C /* BJNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BJNavigationController.h; sourceTree = "<group>"; };
-		2B6686521D4B57DE004DF28C /* BJNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BJNavigationController.m; sourceTree = "<group>"; };
-		2B6686541D4B63AC004DF28C /* BJPathServe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BJPathServe.h; sourceTree = "<group>"; };
-		2B6686551D4B63AC004DF28C /* BJPathServe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BJPathServe.m; sourceTree = "<group>"; };
-		2B6686571D4B67C5004DF28C /* BJWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BJWebViewController.h; sourceTree = "<group>"; };
-		2B6686581D4B67C5004DF28C /* BJWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BJWebViewController.m; sourceTree = "<group>"; };
 		2B682A481D4DC5F400BDD807 /* BJHelperSupport.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = BJHelperSupport.bundle; sourceTree = "<group>"; };
 		2B6A84781D48CED700103DAC /* BJHelper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BJHelper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B6A847C1D48CED700103DAC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2B6A847E1D48CED700103DAC /* BJAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BJAppDelegate.h; sourceTree = "<group>"; };
 		2B6A847F1D48CED700103DAC /* BJAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BJAppDelegate.m; sourceTree = "<group>"; };
-		2B6A84811D48CED700103DAC /* BJListViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BJListViewController.h; sourceTree = "<group>"; };
-		2B6A84821D48CED700103DAC /* BJListViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BJListViewController.m; sourceTree = "<group>"; };
 		2B6A84851D48CED700103DAC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2B6A84871D48CED700103DAC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2B6A848C1D48CED700103DAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2B6CE8351D49018E00C09E5E /* App */ = {isa = PBXFileReference; lastKnownFileType = folder; path = App; sourceTree = SOURCE_ROOT; };
 		2B8CF7CE1D4F318F00D7A56C /* BJHelperSupport.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BJHelperSupport.h; sourceTree = "<group>"; };
 		2B8CF7CF1D4F31CF00D7A56C /* libBJHelperSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libBJHelperSDK.a; sourceTree = "<group>"; };
-		2BA2CD711D4C9FF900EF090B /* BJAssembler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BJAssembler.h; sourceTree = "<group>"; };
-		2BA2CD721D4C9FF900EF090B /* BJAssembler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BJAssembler.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +89,41 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2B5F0D211D509B7200B897D3 /* Tool */ = {
+			isa = PBXGroup;
+			children = (
+				2B5F0D221D509B7200B897D3 /* BJAssembler.h */,
+				2B5F0D231D509B7200B897D3 /* BJAssembler.m */,
+				2B5F0D241D509B7200B897D3 /* BJFileInfoAssembler.h */,
+				2B5F0D251D509B7200B897D3 /* BJFileInfoAssembler.m */,
+				2B5F0D261D509B7200B897D3 /* BJPathServe.h */,
+				2B5F0D271D509B7200B897D3 /* BJPathServe.m */,
+			);
+			path = Tool;
+			sourceTree = "<group>";
+		};
+		2B5F0D2B1D509B9C00B897D3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				2B5F0D2C1D509B9C00B897D3 /* BJFileInfo.h */,
+				2B5F0D2D1D509B9C00B897D3 /* BJFileInfo.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		2B5F0D2F1D509BA300B897D3 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				2B5F0D301D509BA300B897D3 /* BJListViewController.h */,
+				2B5F0D311D509BA300B897D3 /* BJListViewController.m */,
+				2B5F0D321D509BA300B897D3 /* BJNavigationController.h */,
+				2B5F0D331D509BA300B897D3 /* BJNavigationController.m */,
+				2B5F0D341D509BA300B897D3 /* BJWebViewController.h */,
+				2B5F0D351D509BA400B897D3 /* BJWebViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
 		2B6580A81D4F1DC3001729CD /* header */ = {
 			isa = PBXGroup;
 			children = (
@@ -142,9 +177,9 @@
 				2B6A847F1D48CED700103DAC /* BJAppDelegate.m */,
 				2B656F9F1D4CFCD6001784EC /* BJServerConfig.h */,
 				2B656FA01D4CFCD6001784EC /* BJServerConfig.m */,
-				2B87EEED1D4F650B0022B51F /* Tool */,
-				2B87EEEC1D4F64C20022B51F /* Model */,
-				2B87EEEB1D4F649D0022B51F /* Controller */,
+				2B5F0D211D509B7200B897D3 /* Tool */,
+				2B5F0D2B1D509B9C00B897D3 /* Model */,
+				2B5F0D2F1D509BA300B897D3 /* Controller */,
 				2B682A471D4DC5F400BDD807 /* libBJHelperSupport */,
 				2B6CE8341D49016800C09E5E /* Resources */,
 				2B6A848C1D48CED700103DAC /* Info.plist */,
@@ -170,41 +205,6 @@
 				2B6CE8351D49018E00C09E5E /* App */,
 			);
 			name = Resources;
-			sourceTree = "<group>";
-		};
-		2B87EEEB1D4F649D0022B51F /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-				2B6686511D4B57DE004DF28C /* BJNavigationController.h */,
-				2B6686521D4B57DE004DF28C /* BJNavigationController.m */,
-				2B6A84811D48CED700103DAC /* BJListViewController.h */,
-				2B6A84821D48CED700103DAC /* BJListViewController.m */,
-				2B6686571D4B67C5004DF28C /* BJWebViewController.h */,
-				2B6686581D4B67C5004DF28C /* BJWebViewController.m */,
-			);
-			name = Controller;
-			sourceTree = "<group>";
-		};
-		2B87EEEC1D4F64C20022B51F /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				2B66864B1D4B2368004DF28C /* BJFileInfo.h */,
-				2B66864C1D4B2368004DF28C /* BJFileInfo.m */,
-			);
-			name = Model;
-			sourceTree = "<group>";
-		};
-		2B87EEED1D4F650B0022B51F /* Tool */ = {
-			isa = PBXGroup;
-			children = (
-				2B6686541D4B63AC004DF28C /* BJPathServe.h */,
-				2B6686551D4B63AC004DF28C /* BJPathServe.m */,
-				2BA2CD711D4C9FF900EF090B /* BJAssembler.h */,
-				2BA2CD721D4C9FF900EF090B /* BJAssembler.m */,
-				2B656F991D4CBEC8001784EC /* BJFileInfoAssembler.h */,
-				2B656F9A1D4CBEC8001784EC /* BJFileInfoAssembler.m */,
-			);
-			name = Tool;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -323,15 +323,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2B6A84831D48CED700103DAC /* BJListViewController.m in Sources */,
-				2B6686531D4B57DE004DF28C /* BJNavigationController.m in Sources */,
-				2BA2CD731D4C9FF900EF090B /* BJAssembler.m in Sources */,
-				2B6686561D4B63AC004DF28C /* BJPathServe.m in Sources */,
+				2B5F0D361D509BA400B897D3 /* BJListViewController.m in Sources */,
+				2B5F0D281D509B7200B897D3 /* BJAssembler.m in Sources */,
 				2B6A84801D48CED700103DAC /* BJAppDelegate.m in Sources */,
-				2B6686591D4B67C5004DF28C /* BJWebViewController.m in Sources */,
 				2B656FA11D4CFCD6001784EC /* BJServerConfig.m in Sources */,
-				2B66864D1D4B2368004DF28C /* BJFileInfo.m in Sources */,
-				2B656F9B1D4CBEC8001784EC /* BJFileInfoAssembler.m in Sources */,
+				2B5F0D371D509BA400B897D3 /* BJNavigationController.m in Sources */,
+				2B5F0D381D509BA400B897D3 /* BJWebViewController.m in Sources */,
+				2B5F0D2A1D509B7200B897D3 /* BJPathServe.m in Sources */,
+				2B5F0D291D509B7200B897D3 /* BJFileInfoAssembler.m in Sources */,
+				2B5F0D2E1D509B9C00B897D3 /* BJFileInfo.m in Sources */,
 				2B6A847D1D48CED700103DAC /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
